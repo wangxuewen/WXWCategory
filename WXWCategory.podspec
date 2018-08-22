@@ -90,7 +90,7 @@ Pod::Spec.new do |s|
   #
 
   # s.source_files  = "WXWCategory", "WXWCategory/**/*.{h,m}"
-    s.source_files  = "WXWCategory"
+    s.source_files  = "WXWCategory/**/*.{h,m}"
   s.exclude_files = "WXWCategory/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
