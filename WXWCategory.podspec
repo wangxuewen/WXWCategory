@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "WXWCategory"
-  s.version      = "0.1.1"
+  s.version      = "0.1.3"
   s.summary      = "基础数据类型的分类"
 
   # This description is used to generate tags and improve search results.
